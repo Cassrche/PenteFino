@@ -113,7 +113,7 @@ Ferramentas comerciais tipo EnCase e AXIOM custam $2.500-5.000 por ano. Scripts 
 ### 1. Instalar dependencias (uma vez)
 
 ```bash
-git clone https://github.com/SEU_USER/pentefino.git
+git clone https://github.com/Cassrche/pentefino.git
 cd pentefino
 bash instalar_ferramentas.sh
 ```
@@ -309,7 +309,7 @@ MAX_RECUPERADO_TOTAL_MB=500 # tamanho total maximo de recuperados (MB)
 Contribuicoes sao bem-vindas. Abre uma issue antes de mandar mudanca grande.
 
 ```bash
-git clone https://github.com/SEU_USER/pentefino.git
+git clone https://github.com/Cassrche/pentefino.git
 cd pentefino
 # faz as mudancas no pentefino.sh
 bash -n pentefino.sh              # checar sintaxe

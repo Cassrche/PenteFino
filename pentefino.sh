@@ -2,7 +2,7 @@
 # ============================================================================
 #
 #   PENTEFINO - Linux Forensic Evidence Collector
-#   v3.1 | github.com/SEU_USER/pentefino
+#   v3.1 | github.com/Cassrche/pentefino
 #
 #   Uso: sudo bash pentefino.sh
 #
@@ -1256,7 +1256,7 @@ menu_sobre() {
     echo -e "    - Ctrl+C salva coleta parcial"
     echo -e "    - Exportar como .tar.gz"
     echo ""
-    echo -e "  ${DIM}v${VERSAO} | GPLv3 | github.com/SEU_USER/pentefino${NC}"
+    echo -e "  ${DIM}v${VERSAO} | GPLv3 | github.com/Cassrche/pentefino${NC}"
     pausar
 }
 

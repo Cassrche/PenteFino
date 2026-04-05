@@ -8,7 +8,7 @@ set -e
 
 echo "============================================"
 echo " PENTEFINO - Instalador de Dependencias"
-echo " github.com/SEU_USER/pentefino"
+echo " github.com/Cassrche/pentefino"
 echo "============================================"
 echo ""
 
